@@ -1,0 +1,1 @@
+This repository contains examples demonstrating the unordered nature of hash keys in Perl.  The `bug.pl` file shows how iterating over hash keys using `keys %hash` can produce unpredictable results. The `bugSolution.pl` file offers solutions to address this issue.
